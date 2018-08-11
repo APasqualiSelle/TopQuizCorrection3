@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TopQuiz</string>
+    <string name="hint_edit_text_view_main">Please type your name</string>
+    <string name="welcome_title_text_view_main">Welcome! What\'s your name?</string>
+    <string name="lets_play_button_view_main">LET\'S PLAY</string>
+    <string name="good_answer_toast">Good!</string>
+    <string name="wrong_answer_toast">Wrong!</string>
+    <string name="well_done_alert_dialog">Well done!</string>
+    <string name="your_score_alert_dialog">Your score is </string>
+    <string name="sort_by_name">Sort by name</string>
+    <string name="sort_by_score">Sort by score</string>
+</resources>
